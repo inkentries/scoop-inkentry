@@ -1,12 +1,12 @@
 {
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Code intelligence for AI agents - persistent memory, code graph, search",
   "homepage": "https://github.com/inkentries/inkentry",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/inkentries/inkentry/releases/download/v1.0.2/inkentry-v1.0.2-x86_64-pc-windows-msvc.zip",
-      "hash": "281ee4b6d0e2836508c3c65dd95d227ffd3c98637048c695d92d80846b109c97"
+      "url": "https://github.com/inkentries/inkentry/releases/download/v1.1.0/inkentry-v1.1.0-x86_64-pc-windows-msvc.zip",
+      "hash": "190da14641c7f740ee1a51d87fce703d43fdb7c53230f6cf9d2b7e899d1842c6"
     }
   },
   "bin": [
